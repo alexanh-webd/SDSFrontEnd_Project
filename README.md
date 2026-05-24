@@ -17,7 +17,7 @@ How to run the project:
 Click on the live server, the web page is ready to launch locally from your computer.
 
 
-Or You can run this project by accessing to this link. This link will give you the ready version andyou don't need to download or instal any extension onto your computer: 
+Or you can run this project by accessing to this link. This link will give you the ready version and you don't need to download or install any extension onto your computer: 
 
 https://alexanh-webd.github.io/SDSFrontEnd_Project/
 
