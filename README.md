@@ -6,11 +6,22 @@ LUT School of Engineering Sciences
 
 Course: Software Development Skills Front-End, Online course
 
-You can run this project by accessing to this link: 
+How to run the project:
+
+1. Download the project to your computer
+
+2. Open the project in VSCode
+
+3. Use the Live server. If you do not have that extension in Vscode, you can install it easily by searching Live server in VScode.
+
+Click on the live server, the web page is ready to launch locally from your computer.
+
+
+Or You can run this project by accessing to this link. This link will give you the ready version andyou don't need to download or instal any extension onto your computer: 
 
 https://alexanh-webd.github.io/SDSFrontEnd_Project/
 
-Here is the link to my learning diary:
+Here is the link to my learning diary or you can open the learning diary directly from github:
 
 https://onedrive.live.com/:w:/g/personal/aceffd852dab3541/IQAhztooktHTSJJhEh_xKp_YAVKgDr2sOjbE_hGVkXCkKO4?rtime=bFRou8q53kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy9hY2VmZmQ4NTJkYWIzNTQxL0lRQWh6dG9va3RIVFNKSmhFaF94S3BfWUFWS2dEcjJzT2piRV9oR1ZrWENrS080P2U9RnNxQm85
 
