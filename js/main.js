@@ -44,6 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
   );
 });
 
+// Suggestion from Gemini
 const observer = new IntersectionObserver((entries) => {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
