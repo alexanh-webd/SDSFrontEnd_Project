@@ -1,0 +1,11 @@
+{
+  "name": "sdsf-practice",
+  "version": "1.0.0",
+  "homepage": "https://alexanh-webd.github.io/SDSFrontEnd_Project",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
